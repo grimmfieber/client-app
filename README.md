@@ -1,4 +1,4 @@
-# hospita-booking-ui
+# hospital-booking-client-app
 
 ## Warning I developed this project during my college. It's may not suitable for your business. It's not developed in terms of professionality.
 
