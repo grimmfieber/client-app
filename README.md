@@ -1,6 +1,6 @@
 # hospital-booking-client-app
 
-## Warning! I developed this app during my internship. It's may not suitable for your business and it's not developed in terms of professionality.
+## Warning! It's may not suitable for your business and it's not developed in terms of professionality.
 
 ### This app has been developed for vue learning process. Not developed in accordance with the component structure. Has developed with VUEX and developed a year ago. 
 
